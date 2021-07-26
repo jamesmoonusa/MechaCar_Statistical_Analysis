@@ -18,7 +18,8 @@ mpg =(-1.04) + (6.27*vehicle_lenth) + (1.25*vehicle_weight) + (6.88*spoiler_angl
 ![lot1 T-test](https://github.com/jamesmoonusa/MechaCar_Statistical_Analysis/blob/main/Lot1%20-%20Capture.PNG)
 ![lot2 T-test](https://github.com/jamesmoonusa/MechaCar_Statistical_Analysis/blob/main/Lot2%20-%20Capture.PNG)
 ![lot3 T-test](https://github.com/jamesmoonusa/MechaCar_Statistical_Analysis/blob/main/Lot3%20-%20Capture.PNG)
-
+- Typical common siginficance level is 0.05, and Lot 1's p-value is 1 and Lot 2's p-value is 0.61 which they are greater than 0.05. Thus we cannot rejuect null hypothesis which means that this sample mean and the presumed population mean are statistically similar.
+- Lot 3's p-value data is 0.04, so we can reject the null hypothesis which means that this sample mean and the presumed population mean are not statistically different. 
 
 
 ## Study Design: MechaCAr vs Competition
