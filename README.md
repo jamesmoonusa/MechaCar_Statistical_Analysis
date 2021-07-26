@@ -22,4 +22,14 @@ mpg =(-1.04) + (6.27*vehicle_lenth) + (1.25*vehicle_weight) + (6.88*spoiler_angl
 - Lot 3's p-value data is 0.04, so we can reject the null hypothesis which means that this sample mean and the presumed population mean are not statistically different. 
 
 
-## Study Design: MechaCAr vs Competition
+## Study Design: MechaCar vs Competition
+Following metrics would be interested to a consumer who wants to compare performance of Mechacar and perforamnce of Competition.
+- Price: Price would be a heavyly weighted factor when you compare performance. Low price and high performance would be ideal and attactive to a consumer.
+- Safty Rating: Safty is priorty alway to consumers. 
+- Maintance cost: Typically, consumers like to have lower mainance cost.
+- Mileage driven: Higher mileage would indicated much reliable vehicle.
+
+Null hypothesis would be: Each performance metrics is statiscally simmilar between the Mechacar and comptitors. 
+One-way ANOVA test can be used to compare the means of continuous numerical variable across a number of groups. So for this analysis, I can compare the means of each metric between different competitors.
+So after the test if I can reject the Null, I can determine which vehicle(manufacture) has better price, saft rating, maintance cost and mileage driven. With this compared test, consumer can see which vehicle(Mechacar VS Competitors)
+
