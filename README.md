@@ -11,9 +11,14 @@ mpg =(-1.04) + (6.27*vehicle_lenth) + (1.25*vehicle_weight) + (6.88*spoiler_angl
 
 ## Summary Statistics on Suspension Coils
 ![Summary Statistics on Suspension](https://github.com/jamesmoonusa/MechaCar_Statistical_Analysis/blob/main/Summary%20Statistics%20on%20Suspension%20-%20Capture.PNG)
-
+- Based on total Variance PSI is 62.30, thus the current manufacturing data shows that all manufacturing lots meet the requirment which is variance of suspension coil must not exceed 100 PSI. 
+- Lot 1 and 2 PSI variances are within the range as 0.98 and 7.47 but Lot 3 is out of the range as 170. Thus Lot 1 & 2 meets design specification while Lot 3 does not.
 
 ## T-Tests on Suspension Coils
+![lot1 T-test](https://github.com/jamesmoonusa/MechaCar_Statistical_Analysis/blob/main/Lot1%20-%20Capture.PNG)
+![lot2 T-test](https://github.com/jamesmoonusa/MechaCar_Statistical_Analysis/blob/main/Lot2%20-%20Capture.PNG)
+![lot3 T-test](https://github.com/jamesmoonusa/MechaCar_Statistical_Analysis/blob/main/Lot3%20-%20Capture.PNG)
+
 
 
 ## Study Design: MechaCAr vs Competition
